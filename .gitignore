@@ -1,0 +1,16 @@
+target/*
+**/target/
+*.class
+*.jar
+*.war
+
+# Eclipse
+/.settings
+/.project
+/.classpath
+
+# Idea
+.idea/
+*.iml
+.settings
+/bin
